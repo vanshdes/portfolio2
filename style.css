@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(92, 197, 211);
+}
+header{
+    background-color: rgb(127, 218, 206);
+    color:rgb(255,255,255);
+}
+#welcome{
+    margin-bottom:10px;
+}
+#portfolio{
+    margin-top:0px;
+    padding-left:290px;
+}
+#portfolio-name{
+    font-size:90px;
+}
+#welcome-text{
+    font-size:90px;
+}
+#my-image{
+    width: 150px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+nav {
+    margin-top: 20px;
+  
+}
+
+nav a {
+   
+    color: rgb(12, 24, 30);
+    text-decoration: none;
+    margin: 0 12px;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+nav a:hover {
+    color: #facc15;
+}
+#myimg{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 5px solid rgb(114, 41, 41);
+}
+
+
+#sandp{
+    font-size:40px ;
+}
+#aandi{
+    font-size:40px ;
+}
+#pandt{
+    font-size:40px ;
+}
+
+
+
+/* Contact Table */
+#contact-table {
+    width: 100%;
+    max-width: 600px;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+#contact-table th,
+#contact-table td {
+    padding: 14px 16px;
+    text-align: left;
+    border-bottom: 1px solid #dbeafe;
+    word-break: break-word;
+}
+
+#contact-table th {
+    width: 110px;
+    background-color: #eff6ff;
+    color: #1e40af;
+}
+
+#contact-table a {
+    color: #2563eb;
+    text-decoration: none;
+}
+
+#contact-table a:hover {
+    text-decoration: underline;
+}
